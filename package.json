@@ -18,6 +18,7 @@
   "author": "Luke Mifflen et al.",
   "license": "ISC",
   "dependencies": {
-    "@googlemaps/js-api-loader": "^1.13.10"
+    "@googlemaps/js-api-loader": "^1.13.10",
+    "promise": "^8.1.0"
   }
 }
