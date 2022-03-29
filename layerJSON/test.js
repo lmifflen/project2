@@ -1,0 +1,3 @@
+let testJson = {"asset_class":"CMLC PROJECT","asset_cd":"DNE116","the_geom":{"type":"MultiLineString","coordinates":[[[-114.044965002579,51.046438164053],[-114.044992822229,51.046407684452]]]},"maintained_by":"DEVELOPER CONSTRUCTION","steward":"CALGARY PARKS","life_cycle_status":"INSTALLED","asset_type":"REGIONAL","material":"ASPHALT","trans_canada_trail":"NO","greenway":"NO","operational":"OPEN"}
+
+module.export = {testJson};
