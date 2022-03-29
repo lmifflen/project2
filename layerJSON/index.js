@@ -7,8 +7,12 @@ function initMap() {
   });
   // NOTE: This uses cross-domain XHR, and may not work on older browsers.
   map.data.loadGeoJson(
-    // "https://data.calgary.ca/resource/qndb-27qm.geojson",
+    "https://data.calgary.ca/resource/qndb-27qm.geojson"
+  );
+
+  map.data.loadGeoJson(
     "https://data.calgary.ca/resource/jjqk-9b73.geojson"
   );
+  
 }
 
