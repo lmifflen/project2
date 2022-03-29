@@ -16,3 +16,9 @@ function initMap() {
   
 }
 
+//import soda geojson
+function importGeoJson() {
+  map.data.loadGeoJson(
+    "https://data.calgary.ca/resource/qndb-27qm.geojson"
+  );
+}   //import soda geojson
