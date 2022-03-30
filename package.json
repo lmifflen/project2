@@ -1,24 +1,54 @@
 {
+
   "name": "project2",
+
   "version": "1.0.0",
+
   "description": "City Cycle Track group project",
+
   "main": "index.js",
+
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
+
   "keywords": [
+
     "cycle",
+
     "calgary",
+
     "git",
+
     "react",
+
     "node",
+
     "JavaScript",
+
     "FullStack"
+
   ],
+
   "author": "Luke Mifflen et al.",
+
   "license": "ISC",
+
   "dependencies": {
+
     "@googlemaps/js-api-loader": "^1.13.10",
-    "promise": "^8.1.0"
+
+    "fetch": "^1.1.0",
+
+    "node-fetch": "^2.6.7",
+
+    "promise": "^8.1.0",
+
+    "soda": "^0.2.5"
+
   }
+
 }
+

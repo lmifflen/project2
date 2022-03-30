@@ -1,0 +1,22 @@
+{
+  "name": "testingfetch",
+  "version": "1.0.0",
+  "description": "testing fetch to deal with SODA API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soda",
+    "fetch",
+    "test"
+  ],
+  "author": "luke mifflen",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "promise": "^8.1.0",
+    "promises": "^0.2.5"
+  },
+  "type": "module"
+}
